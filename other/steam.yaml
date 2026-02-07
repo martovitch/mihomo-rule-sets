@@ -1,8 +1,8 @@
 payload:
-- steampowered.com
-- steamcommunity.com
-- steamgames.com
-- steamusercontent.com
-- steamcontent.com
-- steamstatic.com
-- akamaihd.net
+  - steampowered.com
+  - steamcommunity.com
+  - steamgames.com
+  - steamusercontent.com
+  - steamcontent.com
+  - steamstatic.com
+  - akamaihd.net
