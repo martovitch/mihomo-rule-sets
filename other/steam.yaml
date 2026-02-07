@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,steambroadcast.com
