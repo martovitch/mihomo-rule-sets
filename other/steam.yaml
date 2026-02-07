@@ -1,13 +1,11 @@
 payload:
-  - '+.steampowered.com'
-  - '+.steamcommunity.com'
-  - '+.steamgames.com'
-  - '+.steamusercontent.com'
-  - '+.steamcontent.com'
-  - '+.steamstatic.com'
-  - '+.steam-chat.com'
-  - '+.steamloopback.com'
-  - '+.steamserver.net'
-  - '+.s.team'
-  - '+.steambroadcast.com'
-  - '+.akamaihd.net'
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-SUFFIX,s.team
+  - DOMAIN-SUFFIX,akamaihd.net
